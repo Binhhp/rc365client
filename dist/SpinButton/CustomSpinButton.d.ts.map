@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomSpinButton.d.ts","sourceRoot":"","sources":["../../../src/Dependencies/SpinButton/CustomSpinButton.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAqB,iBAAiB,EAAE,MAAM,yBAAyB,CAAC;AAG/E,cAAM,gBAAiB,SAAQ,KAAK,CAAC,SAAS,CAAC,iBAAiB,CAAC;IAC/D,MAAM;CAeP;AAED,eAAe,gBAAgB,CAAC"}

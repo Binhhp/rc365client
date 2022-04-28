@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomCommanBarButton.d.ts","sourceRoot":"","sources":["../../../../src/Dependencies/Button/CommandBarButton/CustomCommanBarButton.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAEL,4BAA4B,EAC7B,MAAM,+BAA+B,CAAC;AAIvC,cAAM,sBAAuB,SAAQ,KAAK,CAAC,SAAS,CAClD,4BAA4B,CAC7B;IACC,MAAM;CAYP;AAED,eAAe,sBAAsB,CAAC"}

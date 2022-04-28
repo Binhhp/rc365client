@@ -1,0 +1,5 @@
+export enum ActionSettingTypeKeys {
+  SET_THEME = "SET_THEME",
+  SET_TYPE_GRID_VIEW = "SET_TYPE_GRID_VIEW",
+  UPDATE_TIME_ZONES = "UPDATE_TIME_ZONES",
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomChoiceGroup.d.ts","sourceRoot":"","sources":["../../../src/Dependencies/ChoiceGroup/CustomChoiceGroup.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAEL,uBAAuB,EACxB,MAAM,0BAA0B,CAAC;AAElC,cAAM,iBAAkB,SAAQ,KAAK,CAAC,SAAS,CAAC,uBAAuB,CAAC;IACtE,MAAM;CAcP;AAED,eAAe,iBAAiB,CAAC"}

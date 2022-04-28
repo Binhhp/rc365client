@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomSearchBox.d.ts","sourceRoot":"","sources":["../../../src/Dependencies/SearchBox/CustomSearchBox.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAE,gBAAgB,EAAoB,MAAM,wBAAwB,CAAC;AAI5E,cAAM,eAAgB,SAAQ,KAAK,CAAC,SAAS,CAAC,gBAAgB,CAAC;IAC7D,MAAM;CA0BP;AAED,eAAe,eAAe,CAAC"}

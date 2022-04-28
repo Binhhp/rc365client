@@ -1,0 +1,5 @@
+import { IDropdownProps } from "./Dropdown.types";
+export interface ICustomDropdownProps extends IDropdownProps {
+    darkMode?: string;
+}
+export declare const DropdownWrapper: import("styled-components").StyledComponent<"div", any, {}, never>;

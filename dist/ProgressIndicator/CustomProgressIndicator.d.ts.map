@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomProgressIndicator.d.ts","sourceRoot":"","sources":["../../../src/Dependencies/ProgressIndicator/CustomProgressIndicator.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAmB,oBAAoB,EAAE,MAAM,uBAAuB,CAAC;AAE9E,cAAM,uBAAwB,SAAQ,KAAK,CAAC,SAAS,CAAC,oBAAoB,CAAC;IACzE,MAAM;CAOP;AAED,eAAe,uBAAuB,CAAC"}

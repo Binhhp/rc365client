@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomCheckBox.d.ts","sourceRoot":"","sources":["../../../src/Dependencies/Checkbox/CustomCheckBox.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAmB,oBAAoB,EAAE,MAAM,uBAAuB,CAAC;AAE9E,cAAM,cAAe,SAAQ,KAAK,CAAC,SAAS,CAAC,oBAAoB,CAAC;IAChE,MAAM;CA2BP;AAED,eAAe,cAAc,CAAC"}

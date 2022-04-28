@@ -1,0 +1,32 @@
+import * as React from "react";
+import { IColumn, IDetailsRowFieldsProps } from "../DetailsList";
+import { IListProps, IListStates, IColumn as IColumnCustom, IObjectFilter } from "./ListStyle";
+import { IContextualMenuItem } from "../@uifabric/utilities/ContextualMenu";
+export declare class DetailsListDocumentsExample extends React.Component<IListProps, IListStates> {
+    private _selection;
+    constructor(props: IListProps);
+    componentDidMount(): void;
+    UNSAFE_componentWillReceiveProps(nextProps: IListProps): void;
+    onGetItemLazy: (itemCount: number, type?: string | undefined) => Promise<void>;
+    onSetDefaultColumns: (columnsSaved?: IColumnCustom[] | undefined) => Promise<void>;
+    onRenderColumnFilter: (ev: React.MouseEvent<HTMLElement>, column: IColumn) => void;
+    onHeaderClick: (ev: React.MouseEvent<HTMLElement>, column: IColumn) => void;
+    onSetDefaultItems: (itemsProps: any[]) => Promise<void>;
+    onChoiceItemSort: (ev?: React.KeyboardEvent<HTMLElement> | React.MouseEvent<HTMLElement, MouseEvent> | undefined, item?: IContextualMenuItem | undefined) => void;
+    onSetVisiblePanel: () => void;
+    onGetResultArr: (itemsArr: any[], type?: string | undefined) => Promise<void>;
+    onScrollList: (event: React.MouseEvent<HTMLDivElement, UIEvent>) => void;
+    onCancelFilter: (key: string) => Promise<void>;
+    onChangeFilterData: (filterData: IObjectFilter[], data?: any[] | undefined) => Promise<any[]>;
+    onGetFilterObj: (obj: IObjectFilter) => Promise<void>;
+    render(): JSX.Element;
+    private _onRenderDetailsHeader;
+    private _getContextualMenuProps;
+    private _getContextualMenuFilterProps;
+    onCheckFilter: (ev?: React.FormEvent<HTMLElement | HTMLInputElement> | undefined, itemKey?: string | undefined) => void;
+    onFilterColumn: () => void;
+    private _onContextualMenuDismissed;
+    private _getSelectionDetails;
+    private _onRenderRow;
+    renderRowFields: (props: IDetailsRowFieldsProps) => JSX.Element;
+}
